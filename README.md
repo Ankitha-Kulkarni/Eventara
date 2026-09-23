@@ -6,6 +6,7 @@
   <b>A full-stack event discovery and seat booking platform built with the MERN stack.</b>
 </p>
 
+
 <p align="center">
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
