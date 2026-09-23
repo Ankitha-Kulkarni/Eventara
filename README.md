@@ -1,5 +1,7 @@
 <h1 align="center">✦ Eventara</h1>
 
+
+
 <p align="center">
   <b>A full-stack event discovery and seat booking platform built with the MERN stack.</b>
 </p>
