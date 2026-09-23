@@ -13,11 +13,7 @@
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
 </p>
-
 ---
-
-
-
 ## 📖 About
 
 **Eventara** lets users browse upcoming events by category, view event details, and reserve seats through an interactive seat map. Signed-in users can create and edit events, and every booking updates seat availability in real time from the database.
