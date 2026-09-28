@@ -20,6 +20,7 @@
 
 **Eventara** lets users browse upcoming events by category, view event details, and reserve seats through an interactive seat map. Signed-in users can create and edit events, and every booking updates seat availability in real time from the database.
 
+
 ## ✨ Features
 
 - 🔐 **User authentication** with registration and login, using bcrypt password hashing and JWT tokens
